@@ -1,0 +1,2 @@
+/Users/vivekvaradharaj/Desktop/logezy/android/app/.cxx/Debug/1p384l4s/x86/CMakeFiles/edit_cache.dir
+/Users/vivekvaradharaj/Desktop/logezy/android/app/.cxx/Debug/1p384l4s/x86/CMakeFiles/rebuild_cache.dir
